@@ -1,5 +1,4 @@
 flask
-flask-bootstrap5
 flask-wtf
 wtforms
 pandas
